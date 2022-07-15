@@ -1,0 +1,4 @@
+1001,Arunkumar P,Software,7000,3500,2000,1800,3
+1004,Durairaj T,Infrastructure,9000,4500,3000,1800,6
+1003,Chandramohan S,Human Resource,8000,4000,2500,1800,4
+1002,Balamurugan R,Admin,3500,1750,1000,900,5

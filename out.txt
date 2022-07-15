@@ -1,0 +1,4 @@
+1,1004,Durairaj T,Infrastructure,14700,6,senior,2022-07-15
+2,1002,Balamurugan R,Admin,5350,5,senior,2022-07-15
+3,1003,Chandramohan S,Human Resource,12700,4,senior,2022-07-15
+4,1001,Arunkumar P,Software,10700,3,junior,2022-07-15
